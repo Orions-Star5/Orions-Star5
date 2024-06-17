@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Orions-Star5
-- 👀 I’m interested in QSMP + art
+- 👀 I’m interested in Deadpool, Spiderman and Venkm !!
 - 🌱 I’m currently learning languages, such as Spanish, Portuguese(br), Polish and Czech
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite animal is the Highland cow :3
