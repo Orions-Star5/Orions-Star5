@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Orions-Star5
-- 👀 I’m interested in Deadpool, Spiderman and Venom !!
-- 🌱 I’m currently learning languages, such as Spanish, Portuguese(br), Polish and Czech
+- 👀 I’m interested in Stray Kids, Big Ocean and GMMTV Dramas :D
+- 🌱 I’m currently learning Spanish and I know a small bit of German :p
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My favourite animal is the Highland cow :3
 
