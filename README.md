@@ -1,6 +1,6 @@
 <div align="center">
   
-  # ABOUT ME
+  ${\textsf{\color{072C48} " Yeah, it's me. Don't cream your pants "}}$
 ![](steve.gif)
 </div>
 <hr>
