@@ -1,6 +1,6 @@
 <div align="center">
   
-  ${\textsf{\color{#C92202} " Yeah, it's me. Don't cream your pants "}}$
+  ${\textsf{\color{#072C48} " Yeah, it's me. Don't cream your pants "}}$
 ![](steve.gif)
 </div>
 <hr>
