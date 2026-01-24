@@ -2,6 +2,7 @@
   
   # ABOUT ME
   <div align="center">
-    https://giphy.com/gifs/meme-netflix-series-kopN26K2ThF9j7RL4K
+    ![giphy](https://github.com/user-attachments/assets/673dfb13-42e4-4b65-8a35-c01c2e72174f)
+
 
   </div>
