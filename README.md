@@ -2,5 +2,5 @@
   
   # ABOUT ME
   <div align="center">
-    ![](steve.gif)
+  ![](steve.gif)
   </div>
