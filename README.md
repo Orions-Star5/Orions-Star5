@@ -2,5 +2,9 @@
   
   # ABOUT ME
   <div align="center">
-    ![image](https://github.com/user-attachments/assets/506db3eb-b704-4ff0-a332-377b735d2603)
+    
+
+https://github.com/user-attachments/assets/98cc5179-a397-426f-8b1c-04698e198cd7
+
+
   </div>
